@@ -1,0 +1,11 @@
+package co.edu.uco.tiendachepito.data.dao.factory.enums;
+
+public enum Factory {
+	
+<<<<<<< HEAD
+	AZURESQL, POSTGRESQL, ORACLE, SQL_SERVER, MYSQL
+=======
+	AZURE_SQL, POSTGRESQL, ORACLE, SQL_SERVER, MYSQL
+>>>>>>> c7491cf3e03680471015d09d4c1c4d8b655e359e
+
+}

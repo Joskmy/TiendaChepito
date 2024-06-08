@@ -1,0 +1,29 @@
+package co.edu.uco.tiendachepito.crosscutting.helpers;
+
+public final class NumericHelper {
+<<<<<<< HEAD
+
+	public static final int ZERO = 0;
+
+=======
+	
+	public static final int ZERO = 0;
+	
+>>>>>>> c7491cf3e03680471015d09d4c1c4d8b655e359e
+	private NumericHelper() {
+		super();
+	}
+
+<<<<<<< HEAD
+	public static final int convertToInt(final String value) {
+
+		try {
+			return Integer.valueOf(value);
+		} catch (Exception exception) {
+			return 0;
+		}
+
+	}
+=======
+>>>>>>> c7491cf3e03680471015d09d4c1c4d8b655e359e
+}
